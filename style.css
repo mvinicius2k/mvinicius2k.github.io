@@ -8,6 +8,11 @@
     height: 100vh;
     
   }
+  .usando-vh-script {
+    width: 100vw;
+    height: calc(var(--vh, 1vh) * 100);
+    
+  }
   .usando-lvh {
     width: 100lvw;
     height: 100lvh;
