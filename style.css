@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+  }
+  .usando-vh {
+    width: 100vw;
+    height: 100vh;
+    
+  }
+  .usando-lvh {
+    width: 100lvw;
+    height: 100lvh;
+    
+  }
+  .usando-dvh {
+    width: 100dvw;
+    height: 100dvh;
+    
+  }
+  .usando-svh {
+    width: 100svw;
+    height: 100svh;
+    
+  }
+
+  .bg{
+      background-image: url("circulo.png");
+      background-size: 100% 100%;
+      background-color: silver;
+  }
